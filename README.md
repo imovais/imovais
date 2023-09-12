@@ -1,4 +1,6 @@
-![logo](https://github.com/imovais/imovais/blob/main/Black%20Elegant%20Personal%20LinkedIn%20Banner%20(1).png)
+<!--![logo](https://github.com/imovais/imovais/blob/main/Black%20Elegant%20Personal%20LinkedIn%20Banner%20(1).png)
+FOR BANNER. IT IS COMMENT FOR NOW
+-->
 <h1 align="center">Hi 👋, I'm Ovais Khan</h1>
 <h3 align="center">A passionate Flutter Developer</h3>
 
